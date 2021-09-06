@@ -1,7 +1,21 @@
-# Análise de pca no R
+## Análise de componentes principais
 
-## Material utilizado no vídeo sobre PCA no YouTube
+### Conteúdo:
+  * [Por que eu gastaria tempo aprendendo isso?](#Por-que-eu-gastaria-tempo-aprendendo-isso?)
+  * [Conteúdo do material](#Neste-material-você-vai-ver)
+  * [Foco do material](#Foco)        
+  * [Exemplo de práticos ou uso comercial](#Exemplos-práticos-ou-de-uso-comercial)
 
-### O material é composto por 
-- Script em R com os pacotes utilizados 
-- Arquivo xls para fazer a importação dos dados no R
+### Por que eu gastaria tempo aprendendo isso?
+- A
+- B
+- C
+
+### Exemplo: 
+- A
+- B
+- C
+### Exemplos práticos ou de uso comercial
+- A
+- B
+- C
