@@ -7,15 +7,7 @@
   * [Exemplo de práticos ou uso comercial](#Exemplos-práticos-ou-de-uso-comercial)
 
 ### Por que eu gastaria tempo aprendendo isso?
-- A
-- B
-- C
+- Técnica que ajuda na redução de dimensões em dados com muitas variáveis
+- So componentes gerados são não correlacionados
+- Permite fazer análise exploratória
 
-### Exemplo: 
-- A
-- B
-- C
-### Exemplos práticos ou de uso comercial
-- A
-- B
-- C
